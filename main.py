@@ -21,7 +21,7 @@ scheduler = AsyncIOScheduler()
 
 async def on_startup(_):
     db.init_db()
-    scheduler.add_job(check_traffic_job, 'interval', minutes=3, args=[bot])
+    scheduler.add_job(check_traffic_job, 'interval', hours=48, args=[bot])
     scheduler.start()
 
 if __name__ == "__main__":
