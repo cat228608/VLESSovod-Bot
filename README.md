@@ -64,7 +64,7 @@ API_TOKEN = "ТУТ ТОКЕН"
 ```sql
 INSERT INTO servers (id, url, username, password, user_count, location_name)
 VALUES ('1', 'http://123.123.123.123:54321', 'admin', 'mypassword', 0, 'Germany');
-
+```
 
 ### 4. Где изменить лимиты и пороги
 
