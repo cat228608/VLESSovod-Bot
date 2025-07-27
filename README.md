@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/RVPNdfL9/ava.png" width="200" height="100" alt="Bot Avatar">
+  <img src="https://i.postimg.cc/RVPNdfL9/ava.png" width="200" height="200" alt="Bot Avatar">
 </p>
 
 # VLESSovod Bot
